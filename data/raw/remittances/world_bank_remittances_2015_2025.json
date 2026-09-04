@@ -1,0 +1,1124 @@
+[
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2025",
+    "value": 2422884615.85255,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2024",
+    "value": 3027416789.17939,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2023",
+    "value": 2454335867.96485,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2022",
+    "value": 2128085082.98706,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2021",
+    "value": 1955950652.58157,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2020",
+    "value": 4291956800.55746,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2019",
+    "value": 4053694728.81048,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2018",
+    "value": 3520566623.36831,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2017",
+    "value": 3536410000,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2016",
+    "value": 2979934204.38383,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "GH",
+      "value": "Ghana"
+    },
+    "countryiso3code": "GHA",
+    "date": "2015",
+    "value": 4982442361.78623,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Ghana"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2025",
+    "value": 22789097830.3714,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2024",
+    "value": 22126757545.065,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2023",
+    "value": 19549549365.0158,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2022",
+    "value": 20127614150.5134,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2021",
+    "value": 19483402058.9105,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2020",
+    "value": 17207547305.9954,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2019",
+    "value": 23809281401.0144,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2018",
+    "value": 24311022415.6069,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2017",
+    "value": 22037016831.8378,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2016",
+    "value": 19697938003.8912,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "NG",
+      "value": "Nigeria"
+    },
+    "countryiso3code": "NGA",
+    "date": "2015",
+    "value": 20626046924.0079,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Nigeria"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2024",
+    "value": 4999830478.63973,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2023",
+    "value": 4227611606.30686,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2022",
+    "value": 4059710201.31201,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2021",
+    "value": 3770089638.54768,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2020",
+    "value": 3107932253.39579,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2019",
+    "value": 2838192215.41576,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2018",
+    "value": 2720366061.45974,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2017",
+    "value": 1962273106.47771,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2016",
+    "value": 1744639174.70127,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "KE",
+      "value": "Kenya"
+    },
+    "countryiso3code": "KEN",
+    "date": "2015",
+    "value": 1569267849.83759,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Kenya"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2024",
+    "value": 1429424668.61517,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2023",
+    "value": 1513799456.22875,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2022",
+    "value": 1250376025.66842,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2021",
+    "value": 1155212579.46723,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2020",
+    "value": 1061902500.31817,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2019",
+    "value": 1424508662.67091,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2018",
+    "value": 1338053924.78985,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2017",
+    "value": 1165739410.77889,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2016",
+    "value": 1146050427.30299,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "UG",
+      "value": "Uganda"
+    },
+    "countryiso3code": "UGA",
+    "date": "2015",
+    "value": 902157540.45858,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Uganda"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2025",
+    "value": null,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2024",
+    "value": 1123259919.1452,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2023",
+    "value": 1237899448.64826,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2022",
+    "value": 703752774.724637,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2021",
+    "value": 558427114.020975,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2020",
+    "value": 326160727.762652,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2019",
+    "value": 433499813.406953,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2018",
+    "value": 412910078.031612,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2017",
+    "value": 402634721.769049,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2016",
+    "value": 402531458.346674,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "TZ",
+      "value": "Tanzania"
+    },
+    "countryiso3code": "TZA",
+    "date": "2015",
+    "value": 387768775.189672,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "Tanzania"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2025",
+    "value": 1004741847.38267,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2024",
+    "value": 855374671.121348,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2023",
+    "value": 803385605.182583,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2022",
+    "value": 872855576.231191,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2021",
+    "value": 926650843.653293,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2020",
+    "value": 810881603.952635,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2019",
+    "value": 890059293.728209,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2018",
+    "value": 929043381.126847,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2017",
+    "value": 873861160.607838,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2016",
+    "value": 755434048.949775,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  },
+  {
+    "indicator": {
+      "id": "BX.TRF.PWKR.CD.DT",
+      "value": "Personal remittances, received (current US$)"
+    },
+    "country": {
+      "id": "ZA",
+      "value": "South Africa"
+    },
+    "countryiso3code": "ZAF",
+    "date": "2015",
+    "value": 825253479.87049,
+    "unit": "",
+    "obs_status": "",
+    "decimal": 0,
+    "country_name": "South_Africa"
+  }
+]

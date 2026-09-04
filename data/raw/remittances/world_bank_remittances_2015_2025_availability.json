@@ -1,0 +1,31 @@
+{
+  "dataset": "World Bank personal remittances received",
+  "indicator": "BX.TRF.PWKR.CD.DT",
+  "period": "2015-2025",
+  "countries": [
+    "Ghana",
+    "Nigeria",
+    "Kenya",
+    "Uganda",
+    "Tanzania",
+    "South_Africa"
+  ],
+  "expected_records": 66,
+  "actual_records": 66,
+  "missing_value_records": 3,
+  "missing_observations": [
+    {
+      "country": "Kenya",
+      "year": 2025
+    },
+    {
+      "country": "Uganda",
+      "year": 2025
+    },
+    {
+      "country": "Tanzania",
+      "year": 2025
+    }
+  ],
+  "note": "Missing observations were returned by the World Bank API with value=None and are treated as unavailable, not zero."
+}
