@@ -1,0 +1,75 @@
+{
+  "dataset": "UN Comtrade",
+  "period": "2015-2025",
+  "countries": [
+    "Ghana",
+    "Nigeria",
+    "Kenya",
+    "Uganda",
+    "Tanzania",
+    "South_Africa"
+  ],
+  "flows": [
+    "M",
+    "X"
+  ],
+  "partnerCode": 0,
+  "partner2Code": 0,
+  "cmdCode": "TOTAL",
+  "expected_records": 132,
+  "actual_records": 122,
+  "missing_records": 10,
+  "missing_country_year_flow": [
+    {
+      "country": "Ghana",
+      "year": 2017,
+      "flow": "M"
+    },
+    {
+      "country": "Ghana",
+      "year": 2017,
+      "flow": "X"
+    },
+    {
+      "country": "Ghana",
+      "year": 2020,
+      "flow": "M"
+    },
+    {
+      "country": "Ghana",
+      "year": 2020,
+      "flow": "X"
+    },
+    {
+      "country": "Kenya",
+      "year": 2025,
+      "flow": "M"
+    },
+    {
+      "country": "Kenya",
+      "year": 2025,
+      "flow": "X"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2025,
+      "flow": "M"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2025,
+      "flow": "X"
+    },
+    {
+      "country": "Uganda",
+      "year": 2025,
+      "flow": "M"
+    },
+    {
+      "country": "Uganda",
+      "year": 2025,
+      "flow": "X"
+    }
+  ],
+  "note": "Missing observations were not returned by the UN Comtrade API and are treated as unavailable/missing, not zero."
+}
