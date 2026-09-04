@@ -1,0 +1,97 @@
+{
+  "dataset": "World Bank macroeconomic indicators",
+  "period": "2015-2025",
+  "countries": [
+    "Ghana",
+    "Nigeria",
+    "Kenya",
+    "Uganda",
+    "Tanzania",
+    "South_Africa"
+  ],
+  "indicators": {
+    "gdp_usd": "NY.GDP.MKTP.CD",
+    "gdp_growth_pct": "NY.GDP.MKTP.KD.ZG",
+    "inflation_pct": "FP.CPI.TOTL.ZG",
+    "current_account_pct_gdp": "BN.CAB.XOKA.GD.ZS",
+    "reserves_usd": "FI.RES.TOTL.CD"
+  },
+  "expected_records": 330,
+  "actual_records": 330,
+  "missing_value_records": 12,
+  "missing_observations": [
+    {
+      "country": "Ghana",
+      "year": 2025,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Kenya",
+      "year": 2025,
+      "indicator": "current_account_pct_gdp",
+      "indicator_code": "BN.CAB.XOKA.GD.ZS"
+    },
+    {
+      "country": "Uganda",
+      "year": 2025,
+      "indicator": "current_account_pct_gdp",
+      "indicator_code": "BN.CAB.XOKA.GD.ZS"
+    },
+    {
+      "country": "Uganda",
+      "year": 2025,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2025,
+      "indicator": "current_account_pct_gdp",
+      "indicator_code": "BN.CAB.XOKA.GD.ZS"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2025,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2024,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2023,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2022,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2021,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2020,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    },
+    {
+      "country": "Tanzania",
+      "year": 2019,
+      "indicator": "reserves_usd",
+      "indicator_code": "FI.RES.TOTL.CD"
+    }
+  ],
+  "note": "Records with value=None were returned by the World Bank API and are treated as unavailable, not zero."
+}
